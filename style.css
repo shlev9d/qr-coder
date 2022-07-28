@@ -93,3 +93,14 @@ p {
   box-shadow:var(--box-shadow);
   background: var(--low-color);
 }
+
+
+@media screen and (max-width: 680px) {
+	.wrapper {
+	
+	max-width: 300px;
+	
+}
+	}
+
+	
